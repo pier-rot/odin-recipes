@@ -1,0 +1,24 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #06141b;
+    color: #CCD0CF;
+    text-shadow: #4a5c6a;
+}
+
+h1,h2,h3 {
+    text-align: center;
+    background-color: #11212d;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+li {
+    font-size: 14px;
+}
+
+ol,ul, ul *, ol *,p {
+    background-color: #253745;
+}
